@@ -23,11 +23,11 @@ function App() {
       <div className="relative pt-20">
         <Navbar />
          <About />
-        {/* <Skills />
+        <Skills />
         <Experience />
-        <Work />
+        {/* <Work /> */}
         <Education />
-        <Contact />*/}
+        <Contact />
         <Footer /> 
       </div>
 
