@@ -175,7 +175,7 @@ export const SkillsInfo = [
       description:
         "A modern and efficient job portal web application designed to bridge the gap between job seekers and employers. The platform allows users to effortlessly create profiles, upload resumes, browse verified job listings, and apply with a single click. Recruiters can post openings, manage applications, and review candidate profiles through an intuitive dashboard. With real-time updates, secure authentication, and a seamless user experience, this job portal simplifies the hiring process and provides a smart, streamlined solution for both candidates and employers.",
       image: cmLogo,
-      tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
+      tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/bikram3369/JOB-APP/tree/main",
       webapp: "/",
     },
@@ -187,7 +187,7 @@ export const SkillsInfo = [
       image: cmLogo1,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/bikram3369/Expense-Tracker",
-      webapp: "",
+      webapp: "/",
     },
     
   ];  
