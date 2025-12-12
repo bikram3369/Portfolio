@@ -123,6 +123,7 @@ export const SkillsInfo = [
         "HTML",
         "CSS",
         "SQL",
+        "MONGODB",
       ],
     },
    
