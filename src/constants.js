@@ -177,7 +177,7 @@ export const SkillsInfo = [
       image: cmLogo,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/bikram3369/JOB-APP/tree/main",
-      webapp: "/",
+      webapp: "",
     },
     {
       id: 1,
@@ -187,7 +187,7 @@ export const SkillsInfo = [
       image: cmLogo1,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/bikram3369/Expense-Tracker",
-      webapp: "/",
+      webapp: "",
     },
     
   ];  
