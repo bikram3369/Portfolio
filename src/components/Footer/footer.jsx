@@ -41,8 +41,8 @@ const Footer = () => {
             { icon: <FaFacebook />, link: "" },
             { icon: <FaTwitter />, link: "https://x.com/bikram3369" },
             { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/bikramsarkar3369/" },
-            { icon: <FaInstagram />, link: "" },
-            { icon: <FaYoutube />, link: "" },
+            // { icon: <FaInstagram />, link: "" },
+            // { icon: <FaYoutube />, link: "" },
             
           ].map((item, index) => (
             <a

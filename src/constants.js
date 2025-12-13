@@ -130,15 +130,15 @@ export const SkillsInfo = [
   ];
   
   export const education = [
-    {
-      id: 0,
-      img: {},
-      school: "Still dont know",
-      date: "Let me complete my UG first :)",
-      grade: "Let me complete my UG first :)",
-      desc: "Let me complete my UG first :)",
-      degree: "Let me complete my UG first :)",
-    },
+    // {
+    //   id: 0,
+    //   img: {},
+    //   school: "Still dont know",
+    //   date: "Let me complete my UG first :)",
+    //   grade: "Let me complete my UG first :)",
+    //   desc: "Let me complete my UG first :)",
+    //   degree: "Let me complete my UG first :)",
+    // },
     {
       id: 1,
       img: College,
