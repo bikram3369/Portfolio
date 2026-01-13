@@ -177,7 +177,7 @@ export const SkillsInfo = [
       image: cmLogo,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/bikram3369/JOB-APP/tree/main",
-      webapp: "",
+      webapp: "https://job-five-rho.vercel.app",
     },
     {
       id: 1,
