@@ -46,7 +46,7 @@ import school from './assets/education_logo/school.png';
 // Project Section Logo's
 import cmLogo from './assets/work_logo/cm.png';
 import cmLogo1 from './assets/work_logo/expense.jpg';
-import cmLogo2 from './assets/work_logo/lms.png';
+import cmLogo2 from './assets/work_logo/lms.jpeg';
 
 
 
