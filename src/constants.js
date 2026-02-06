@@ -46,6 +46,7 @@ import school from './assets/education_logo/school.png';
 // Project Section Logo's
 import cmLogo from './assets/work_logo/cm.png';
 import cmLogo1 from './assets/work_logo/expense.jpg';
+import cmLogo2 from './assets/work_logo/lms.png';
 
 
 
@@ -181,6 +182,16 @@ export const SkillsInfo = [
     },
     {
       id: 1,
+      title: "Learning Management System",
+      description:
+        "The Learning Management System (LMS) is a comprehensive web application designed to streamline the process of online education. It allows educators to create and manage courses, upload learning materials, and track student progress. Students can access course content, submit assignments, and participate in discussions. The platform supports real-time communication between teachers and students, making it an ideal solution for remote learning environments.",
+      image: cmLogo2,
+      tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
+      github: "https://github.com/bikram3369/E-learning",
+      webapp: "https://e-learning-wj3h.vercel.app/",
+    },
+    {
+      id: 2,
       title: "Expense-Tracker",
       description:
         "The Expense Tracker is a simple and efficient web application designed to help users monitor and manage their daily expenses. It allows users to add, edit, and delete transactions, categorize their spending, and view their financial habits at a glance. The goal of this project is to make budgeting easier by providing a clean interface and real-time balance updates.",
