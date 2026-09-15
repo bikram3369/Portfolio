@@ -35,7 +35,7 @@ import csharpLogo from './assets/tech_logo/csharp.png';
 
 // Experience Section Logo's
 import agcLogo from './assets/company_logo/voc.png';
-import agclogo1 from './assets/company_logo/deepduofoundation-logo.png';
+import agcLogo1 from './assets/company_logo/deepduofoundation-logo.png';
 
 
 // Education Section Logo's
