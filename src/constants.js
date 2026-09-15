@@ -112,9 +112,29 @@ export const SkillsInfo = [
     {
       id: 0,
       img: agcLogo,
+      role: "Project Intern",
+      company: "Deep Duo Foundation",
+      date: "March 2026 - June 2026",
+      desc: "Built real-world full-stack projects including a Learning Management System (LMS) and a Law/Legal-services application. Designed and developed front-end and back-end modules using the MERN stack, collaborating with a team from planning through testing.",
+      skills: [
+        "ReactJS",
+        "Redux",
+        "JavaScript",
+        "Tailwind CSS",
+        "HTML",
+        "CSS",
+        "SQL",
+        "MONGODB",
+        "NeonDb",
+        "Swagger"
+      ],
+    },
+    {
+      id: 1,
+      img: agcLogo,
       role: "Fullstack Engineer",
       company: "VaultOfCodes",
-      date: "July 2023 - March 2024",
+      date: "March 2025 - April 2025",
       desc: "Contributed to innovative projects as a Fullstack Engineer, leading both frontend and backend development using technologies such as HTML, CSS, JavaScript, PHP, SQL, Bootstrap, and ReactJS. Worked closely with the team to deliver responsive, high-performance web applications and improve user experience through seamless integration of various technologies.",
       skills: [
         "ReactJS",
@@ -126,7 +146,7 @@ export const SkillsInfo = [
         "SQL",
         "MONGODB",
       ],
-    },
+    }
    
   ];
   
