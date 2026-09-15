@@ -35,6 +35,7 @@ import csharpLogo from './assets/tech_logo/csharp.png';
 
 // Experience Section Logo's
 import agcLogo from './assets/company_logo/voc.png';
+import agclogo1 from './assets/company_logo/deepduofoundation-logo.png';
 
 
 // Education Section Logo's
@@ -111,7 +112,7 @@ export const SkillsInfo = [
   export const experiences = [
     {
       id: 0,
-      img: agcLogo,
+      img: agcLogo1,
       role: "Project Intern",
       company: "Deep Duo Foundation",
       date: "March 2026 - June 2026",
