@@ -113,7 +113,7 @@ export const SkillsInfo = [
     {
       id: 0,
       img: agcLogo1,
-      role: "Project Intern",
+      role: "Full Stack Developer",
       company: "Deep Duo Foundation",
       date: "March 2026 - June 2026",
       desc: "Built real-world full-stack projects including a Learning Management System (LMS) and a Law/Legal-services application. Designed and developed front-end and back-end modules using the MERN stack, collaborating with a team from planning through testing.",
